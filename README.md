@@ -40,14 +40,5 @@ To create a command-line based system monitor that utilizes **system calls** to 
 - **Platform:** Linux / Unix-based system
 - **System APIs:** `/proc` filesystem, `sysinfo`, `kill()`, etc.
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/system-monitor-tool.git
-   cd system-monitor-tool
-   g++ -o system_monitor system_monitor.cpp
 
 
